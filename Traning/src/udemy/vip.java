@@ -1,9 +1,11 @@
 package udemy;
 
+import java.util.Scanner;
+
 public class vip {
 
-	public static void main(String[] args) {
-		System.out.print("vipul depolkar");
-	}
-
+	int no=2;
+	String name="vipul";
+	
+	
 }

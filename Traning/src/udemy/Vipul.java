@@ -4,27 +4,13 @@ public class Vipul {
 
 	public static void main(String[] args) {
 
-		System.out.println("vipul depolkar");
-		Vipul v=new Vipul();
-		v.add(2, 3);
+		vip v=new vip();
 		
-		
-		
-	}
-	
-	
-	void add(int a, int b)
-	{
-		int c=a+b;
-				
-		System.out.println(c);		
+		System.out.println(v.name);
+		System.out.println(v.no);
 		
 	}
-	void add (int a,int b,int c)
-	{
-		int d=a+b+c;
-		System.out.println(d);
-		
-	}
-
 }
+	
+	
+	
